@@ -13,6 +13,7 @@
 		B9A888C0254DECB400E0EAE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9A888BE254DECB400E0EAE0 /* Main.storyboard */; };
 		B9A888C2254DECBA00E0EAE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9A888C1254DECBA00E0EAE0 /* Assets.xcassets */; };
 		B9A888C5254DECBA00E0EAE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9A888C3254DECBA00E0EAE0 /* LaunchScreen.storyboard */; };
+		B9A888CE254DED2200E0EAE0 /* ColorisedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A888CD254DED2200E0EAE0 /* ColorisedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B9A888C1254DECBA00E0EAE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9A888C4254DECBA00E0EAE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B9A888C6254DECBA00E0EAE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9A888CD254DED2200E0EAE0 /* ColorisedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorisedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B9A888C1254DECBA00E0EAE0 /* Assets.xcassets */,
 				B9A888C3254DECBA00E0EAE0 /* LaunchScreen.storyboard */,
 				B9A888C6254DECBA00E0EAE0 /* Info.plist */,
+				B9A888CD254DED2200E0EAE0 /* ColorisedViewController.swift */,
 			);
 			path = HomeWorkSix;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				B9A888BD254DECB400E0EAE0 /* ViewController.swift in Sources */,
 				B9A888B9254DECB400E0EAE0 /* AppDelegate.swift in Sources */,
 				B9A888BB254DECB400E0EAE0 /* SceneDelegate.swift in Sources */,
+				B9A888CE254DED2200E0EAE0 /* ColorisedViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
